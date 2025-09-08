@@ -5,3 +5,5 @@ web destination
 - fitur d
 - fitur e
 - fitur f
+- fitur g
+- fitur h
